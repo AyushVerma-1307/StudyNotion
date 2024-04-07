@@ -17,9 +17,9 @@ StudyNotion is a versatile and intuitive ed-tech platform designed to provide an
 - **Database:** MongoDB with Mongoose
 - **Authentication:** JSON Web Tokens (JWT) for user authentication and authorization
 - **Payment Gateway:** Integration with Stripe or PayPal for handling transactions securely
-- **Frontend Framework:** React.js or Vue.js for building a dynamic and interactive user interface
+- **Frontend Framework:** React.js is used for building a dynamic and interactive user interface
 - **Responsive Design:** Utilizes responsive design principles to ensure compatibility with various devices and screen sizes
-- **Deployment:** Docker for containerization, potentially deployed on AWS, Heroku, or Azure cloud platforms
+- **Deployment:** Deployed on Versal for accessing it from around the globe
 
 ## Future Enhancements
 
